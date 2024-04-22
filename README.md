@@ -15,9 +15,13 @@ Snacktrack é uma inteligência artificial usada dentro do WhatsApp que consegue
 
 Seleção de Imagem: Para o teste, selecionei a foto de uma barra de proteína. 
 Upload da Imagem: Tiro a foto e envio pela própria conversa do WhatsApp.
+![Upload](https://github.com/Rafael-Cabral/Relatorio-Adalove/blob/main/IMG_1716.PNG)
+
 Processamento: A plataforma processa a imagem utilizando seus algoritmos de detecção de objetos.
 Visualização dos Resultados:Uma mensagem de texto organiza as informações nutricionais.
 Resultado Obtido: Uma refeição de 172 calorias contendo 11 gramas de proteína, 14 gramas de carboidratos e 8 gramas de gorduras. 
+![Upload](https://github.com/Rafael-Cabral/Relatorio-Adalove/blob/main/IMG_1717.PNG)
+
 
 Eficiência: A ferramenta conseguiu identificar e localizar corretamente o objeto na imagem.
 
